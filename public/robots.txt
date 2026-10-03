@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://artmasster.github.io/pmfolip/sitemap.xml

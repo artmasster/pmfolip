@@ -1,0 +1,1627 @@
+{
+  "asOf": "2026-10-03",
+  "sources": [
+    {
+      "id": "soc-history",
+      "title": "สำนักเลขาธิการคณะรัฐมนตรี: ประวัตินายกรัฐมนตรีไทย",
+      "url": "https://www.soc.go.th/?page_id=8567"
+    },
+    {
+      "id": "soc-cabinets",
+      "title": "สำนักเลขาธิการคณะรัฐมนตรี: ประวัตินายกรัฐมนตรีและคณะรัฐมนตรี",
+      "url": "https://www.soc.go.th/?page_id=182"
+    },
+    {
+      "id": "government-directory",
+      "title": "E-Museum รัฐบาลไทย: ทำเนียบนายกรัฐมนตรี",
+      "url": "https://archives.thaigov.go.th/th/history/prime-minister"
+    },
+    {
+      "id": "current-cabinet",
+      "title": "รัฐบาลไทย: คณะรัฐมนตรีชุดปัจจุบัน",
+      "url": "https://www.thaigov.go.th/th/cabinet/minister"
+    },
+    {
+      "id": "wiki-terms",
+      "title": "Wikipedia: List of prime ministers of Thailand (cross-check of officeholder intervals)",
+      "url": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_Thailand"
+    },
+    {
+      "id": "nesdc-plans",
+      "title": "สภาพัฒน์: แผนพัฒนาเศรษฐกิจและสังคมแห่งชาติ",
+      "url": "https://www.nesdc.go.th/the-national-economic-and-social-development-plan/"
+    },
+    {
+      "id": "bot-crisis",
+      "title": "ธนาคารแห่งประเทศไทย: ถอดบทเรียนวิกฤตต้มยำกุ้ง",
+      "url": "https://www.bot.or.th/th/our-roles/special-measures/Tom-Yum-Kung-lesson.html"
+    },
+    {
+      "id": "asean-afta",
+      "title": "ASEAN: Conception and Evolution by Thanat Khoman",
+      "url": "https://asean.org/the-founding-of-asean/asean-conception-and-evolution-by-thanat-khoman/"
+    },
+    {
+      "id": "anutin-reappointment",
+      "title": "รัฐบาลไทย: ประกาศแต่งตั้งนายกรัฐมนตรี 19 มีนาคม 2569",
+      "url": "https://www.thaigov.go.th/th/news/162465"
+    },
+    {
+      "id": "paetongtarn-appointment",
+      "title": "สำนักเลขาธิการนายกรัฐมนตรี: คำสั่งที่อ้างประกาศแต่งตั้ง 16 สิงหาคม 2567",
+      "url": "https://spm.thaigov.go.th/web-upload/1xff0d34e409a13ef56eea54c52a291126/m_document/37/4420/file_download/b15cb1b070b991d78b859fe218722ccb.pdf"
+    },
+    {
+      "id": "who-ucs",
+      "title": "WHO: Primary health care reforms in Thailand",
+      "url": "https://iris.who.int/bitstream/handle/10665/379673/9789240102743-eng.pdf?sequence=1"
+    },
+    {
+      "id": "moe-free-education",
+      "title": "กระทรวงศึกษาธิการ: เรียนฟรี 15 ปี",
+      "url": "https://www.moe.go.th/ศธ-เปิดศูนย์สนับสนุนนโย/"
+    },
+    {
+      "id": "mol-minimum-wage",
+      "title": "กระทรวงแรงงาน: สถานการณ์แรงงาน ไตรมาส 2/2557",
+      "url": "https://www.mol.go.th/wp-content/uploads/sites/2/2019/07/lb_quater2_2557_for15Aug2014.pdf"
+    },
+    {
+      "id": "fpo-welfare-card",
+      "title": "สำนักงานเศรษฐกิจการคลัง: บัตรสวัสดิการแห่งรัฐ เฟส 1",
+      "url": "https://www.fpo.go.th/main/getattachment/General-information-public-service/ประชาชนควรรู้/8198/เฟส-1-ผู้มีรายได้น้อย.pdf.aspx"
+    },
+    {
+      "id": "mfa-thai-china-visa",
+      "title": "กระทรวงการต่างประเทศ: ความตกลงยกเว้นวีซ่าไทย–จีน",
+      "url": "https://mfa.go.th/th/content/thcn280124-2?cate=5d5bcb4e15e39c306000683b"
+    },
+    {
+      "id": "mfa-marriage-equality",
+      "title": "กระทรวงการต่างประเทศ: กฎหมายสมรสเท่าเทียมเริ่มใช้",
+      "url": "https://mfa.go.th/th/content/weekly-press-briefing-240125-th"
+    },
+    {
+      "id": "ect-referendum-2007",
+      "title": "กกต.: งานวิจัยเกี่ยวกับการลงประชามติ พ.ศ. 2550",
+      "url": "https://www.ect.go.th/web-upload/1xff0d34e409a13ef56eea54c52a291126/m_document/2167/26696/file_download/f12859b4024491269a5bb12958b7a20a.pdf"
+    },
+    {
+      "id": "court-samak",
+      "title": "ศาลรัฐธรรมนูญ: เอกสารศึกษาคำวินิจฉัยที่ 12–13/2551",
+      "url": "https://www.constitutionalcourt.or.th/occ_web/download/Scholarship/panuwatkongsom2564.pdf"
+    },
+    {
+      "id": "court-somchai",
+      "title": "ศาลรัฐธรรมนูญ: คำสั่งเกี่ยวกับผลการยุบพรรคพลังประชาชน",
+      "url": "https://constitutionalcourt.or.th/occ_web/ewt_dl_link.php?nid=442"
+    },
+    {
+      "id": "mfa-relations-china",
+      "title": "กระทรวงการต่างประเทศ: สราญรมย์ ฉบับที่ 52",
+      "url": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/e-book/saranrom/52publication.pdf"
+    },
+    {
+      "id": "soc-six-principles",
+      "title": "สำนักเลขาธิการคณะรัฐมนตรี: หลัก 6 ประการของคณะราษฎร",
+      "url": "https://www.soc.go.th/?page_id=2097"
+    },
+    {
+      "id": "tu-founding",
+      "title": "มหาวิทยาลัยธรรมศาสตร์: ประวัติมหาวิทยาลัย",
+      "url": "https://tu.ac.th/เกี่ยวกับ-มธ/history/"
+    },
+    {
+      "id": "tu-pridi",
+      "title": "มหาวิทยาลัยธรรมศาสตร์: รำลึก 125 ปีชาตกาล ปรีดี พนมยงค์",
+      "url": "https://tu.ac.th/thammasat-110568-pridi-banomyong-2568/"
+    },
+    {
+      "id": "un-thailand-membership",
+      "title": "United Nations Treaty Collection: สมาชิกภาพประเทศไทย",
+      "url": "https://treaties.un.org/Pages/ShowMTDSGDetails.aspx?chapter=1&lang=en&mtdsg_no=I-2&src=UNTSONLINE&tabid=3"
+    },
+    {
+      "id": "bot-founding",
+      "title": "ธนาคารแห่งประเทศไทย: ธปท.กับธนบัตร",
+      "url": "https://www.bot.or.th/th/our-roles/banknotes/about-banknote-management-group/bot-and-banknotes.html"
+    },
+    {
+      "id": "soc-khuang-policy",
+      "title": "สำนักเลขาธิการคณะรัฐมนตรี: คำแถลงนโยบายคณะที่ 11",
+      "url": "https://www.soc.go.th/?page_id=6014"
+    },
+    {
+      "id": "soc-thawi-policy",
+      "title": "สำนักเลขาธิการคณะรัฐมนตรี: คำแถลงนโยบายคณะที่ 12",
+      "url": "https://www.soc.go.th/?page_id=6017"
+    },
+    {
+      "id": "soc-seni-policy",
+      "title": "สำนักเลขาธิการคณะรัฐมนตรี: คำแถลงนโยบายคณะที่ 13",
+      "url": "https://www.soc.go.th/?page_id=6020"
+    },
+    {
+      "id": "parliament-bicameral",
+      "title": "พิพิธภัณฑ์รัฐสภา: พฤฒสภาและระบบสองสภา",
+      "url": "https://parliamentmuseum.go.th/2564/ar64-senate.html"
+    },
+    {
+      "id": "soc-pote-policy",
+      "title": "สำนักเลขาธิการคณะรัฐมนตรี: คำแถลงนโยบายคณะที่ 27",
+      "url": "https://www.soc.go.th/?page_id=10991"
+    },
+    {
+      "id": "kpi-constitution-1974",
+      "title": "สถาบันพระปกเกล้า: สมัชชาแห่งชาติและรัฐธรรมนูญ พ.ศ. 2517",
+      "url": "https://wiki.kpi.ac.th/index.php?title=สมัชชาแห่งชาติ"
+    },
+    {
+      "id": "soc-thanin-policy",
+      "title": "สำนักเลขาธิการคณะรัฐมนตรี: คำแถลงนโยบายคณะที่ 39",
+      "url": "https://www.soc.go.th/?page_id=6141"
+    },
+    {
+      "id": "kpi-kriangsak",
+      "title": "สถาบันพระปกเกล้า: พลเอกเกรียงศักดิ์ ชมะนันทน์",
+      "url": "https://wiki.kpi.ac.th/index.php?title=พลเอกเกรียงศักดิ์_ชมะนันทน์"
+    },
+    {
+      "id": "nesdc-eastern-seaboard",
+      "title": "สภาพัฒน์: พิพิธภัณฑ์สุริยานุวัตร ประวัติการพัฒนาเศรษฐกิจ",
+      "url": "https://www.nesdc.go.th/wp-content/uploads/2025/02/SuriyaMuseumBook.pdf"
+    },
+    {
+      "id": "kpi-battlefields-markets",
+      "title": "สถาบันพระปกเกล้า: นโยบายเปลี่ยนสนามรบให้เป็นสนามการค้า",
+      "url": "https://wiki.kpi.ac.th/index.php?title=นโยบายเปลี่ยนสนามรบให้เป็นสนามการค้า"
+    },
+    {
+      "id": "bot-report-1998",
+      "title": "ธนาคารแห่งประเทศไทย: รายงานเศรษฐกิจและการเงิน พ.ศ. 2541",
+      "url": "https://www.bot.or.th/content/dam/bot/documents/th/research-and-publications/reports/bot-report/annual-report/AnnualReport_2541.pdf"
+    },
+    {
+      "id": "kpi-constitutional-reform",
+      "title": "สถาบันพระปกเกล้า: การแก้รัฐธรรมนูญมาตรา 211 ก่อนจัดทำรัฐธรรมนูญ 2540",
+      "url": "https://wiki.kpi.ac.th/index.php?title=การเลือกตั้งสมาชิกวุฒิสภา_พ.ศ._2543"
+    },
+    {
+      "id": "government-policy-2026",
+      "title": "รัฐบาลไทย: คำแถลงนโยบายรัฐบาลต่อรัฐสภา 9 เมษายน 2569",
+      "url": "https://www.thaigov.go.th/th/news/162941"
+    },
+    {
+      "id": "parliament-article17",
+      "title": "หอสมุดรัฐสภา: งานวิจัยเกี่ยวกับอำนาจนายกรัฐมนตรีตามมาตรา 17",
+      "url": "https://library.parliament.go.th/sites/default/files/assets/files/works/research/by%20institute%20and%20independent%20scholars/pdf/NALT-research-by-independent-32.pdf"
+    },
+    {
+      "id": "soc-seni-1976",
+      "title": "สำนักเลขาธิการคณะรัฐมนตรี: การสิ้นสุดคณะรัฐมนตรีคณะที่ 38",
+      "url": "https://www.soc.go.th/?page_id=5923"
+    }
+  ],
+  "leaders": [
+    {
+      "id": "manopakorn",
+      "ordinal": 1,
+      "name": "พระยามโนปกรณ์นิติธาดา",
+      "shortName": "พระยามโนปกรณ์",
+      "englishName": "Phraya Manopakorn Nitithada",
+      "era": "foundation",
+      "terms": [
+        {
+          "id": "manopakorn-1",
+          "start": "1932-06-28",
+          "end": "1933-06-20",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/manopakorn.jpg",
+      "portraitCredit": {
+        "author": "Unknown author",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Kon_Hutasing.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนแรกของไทย เข้ารับตำแหน่งหลังการเปลี่ยนแปลงการปกครอง พ.ศ. 2475",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 1 เริ่มดำรงตำแหน่งใน พ.ศ. 2475",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "นโยบายรัฐบาลคณะแรก",
+          "detail": "คณะกรรมการราษฎรใช้หลัก 6 ประการเป็นนโยบาย โดยยังไม่มีการแถลงนโยบายต่อสภา",
+          "sourceUrl": "https://www.soc.go.th/?page_id=2097"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "soc-six-principles"
+      ]
+    },
+    {
+      "id": "phahon",
+      "ordinal": 2,
+      "name": "พระยาพหลพลพยุหเสนา",
+      "shortName": "พระยาพหล",
+      "englishName": "Phraya Phahon Phonphayuhasena",
+      "era": "foundation",
+      "terms": [
+        {
+          "id": "phahon-1",
+          "start": "1933-06-21",
+          "end": "1938-12-16",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/phahon.jpg",
+      "portraitCredit": {
+        "author": "Unknown author",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Phraya_Pahol.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 2 ดำรงตำแหน่งระหว่าง พ.ศ. 2476–2481",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 2 เริ่มดำรงตำแหน่งใน พ.ศ. 2476",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "การก่อตั้งมหาวิทยาลัยธรรมศาสตร์",
+          "detail": "มหาวิทยาลัยวิชาธรรมศาสตร์และการเมืองก่อตั้งวันที่ 27 มิถุนายน 2477 ในวาระนี้ โดยปรีดี พนมยงค์เป็นผู้ริเริ่ม จึงต้องแยกบทบาทผู้ก่อตั้งจากผู้นำรัฐบาล",
+          "sourceUrl": "https://tu.ac.th/เกี่ยวกับ-มธ/history/"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "tu-founding"
+      ]
+    },
+    {
+      "id": "plaek",
+      "ordinal": 3,
+      "name": "จอมพล ป. พิบูลสงคราม",
+      "shortName": "ป. พิบูลสงคราม",
+      "englishName": "Plaek Phibunsongkhram",
+      "era": "foundation",
+      "terms": [
+        {
+          "id": "plaek-1",
+          "start": "1938-12-16",
+          "end": "1944-08-01",
+          "label": "ช่วงที่ 1"
+        },
+        {
+          "id": "plaek-2",
+          "start": "1948-04-08",
+          "end": "1957-09-16",
+          "label": "ช่วงที่ 2"
+        }
+      ],
+      "portrait": "/portraits/plaek.jpg",
+      "portraitCredit": {
+        "author": "Ministry of Defence of Thailand",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Plaek_Phibunsongkhram_(cropped).jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 3 ดำรงตำแหน่งสองช่วง โดยช่วงสงครามโลกครั้งที่สองมีการก่อตั้งธนาคารแห่งประเทศไทย",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 3 มีช่วงดำรงตำแหน่งที่แยกจากกัน 2 ช่วงตามขอบเขตข้อมูลของเว็บไซต์",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "การก่อตั้งธนาคารกลาง",
+          "detail": "ประกาศใช้ พ.ร.บ.ธนาคารแห่งประเทศไทยใน พ.ศ. 2485 และเปิดธนาคารอย่างเป็นทางการวันที่ 10 ธันวาคมปีเดียวกัน ระหว่างสงครามโลกครั้งที่สอง",
+          "sourceUrl": "https://www.bot.or.th/th/our-roles/banknotes/about-banknote-management-group/bot-and-banknotes.html"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "bot-founding"
+      ]
+    },
+    {
+      "id": "khuang",
+      "ordinal": 4,
+      "name": "ควง อภัยวงศ์",
+      "shortName": "ควง",
+      "englishName": "Khuang Aphaiwong",
+      "era": "foundation",
+      "terms": [
+        {
+          "id": "khuang-1",
+          "start": "1944-08-01",
+          "end": "1945-08-31",
+          "label": "ช่วงที่ 1"
+        },
+        {
+          "id": "khuang-2",
+          "start": "1946-01-31",
+          "end": "1946-03-24",
+          "label": "ช่วงที่ 2"
+        },
+        {
+          "id": "khuang-3",
+          "start": "1947-11-10",
+          "end": "1948-04-08",
+          "label": "ช่วงที่ 3"
+        }
+      ],
+      "portrait": "/portraits/khuang.jpg",
+      "portraitCredit": {
+        "author": "Unknown photographer",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:%E0%B8%84%E0%B8%A7%E0%B8%87_%E0%B8%AD%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C_%E0%B8%AD%E0%B8%AA%E0%B8%8A_(cropped).jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 4 กลับมาดำรงตำแหน่งสามช่วง เริ่มต้นด้วยภารกิจบริหารประเทศท่ามกลางสงครามโลกครั้งที่สอง",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 4 มีช่วงดำรงตำแหน่งที่แยกจากกัน 3 ช่วงตามขอบเขตข้อมูลของเว็บไซต์",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "ภารกิจรัฐบาลในภาวะสงคราม",
+          "detail": "คำแถลงนโยบายวันที่ 3 สิงหาคม 2487 ระบุว่ารัฐบาลเข้าบริหารในภาวะสงครามที่คับขันและต้องเร่งรับมือ เป็นหลักฐานภารกิจที่รับไว้ ไม่ใช่ข้อสรุปว่าจัดการปัญหาได้สำเร็จทั้งหมด",
+          "sourceUrl": "https://www.soc.go.th/?page_id=6014"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "soc-khuang-policy"
+      ]
+    },
+    {
+      "id": "thawi",
+      "ordinal": 5,
+      "name": "ทวี บุณยเกตุ",
+      "shortName": "ทวี",
+      "englishName": "Thawi Bunyaket",
+      "era": "foundation",
+      "terms": [
+        {
+          "id": "thawi-1",
+          "start": "1945-08-31",
+          "end": "1945-09-17",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/thawi.jpg",
+      "portraitCredit": {
+        "author": "Unknown author",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Tawee_Boonyaket.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 5 รับภารกิจช่วงเปลี่ยนจากสงครามสู่สันติภาพในรัฐบาลที่มีอายุเพียง 17 วัน",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 5 เริ่มดำรงตำแหน่งใน พ.ศ. 2488",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "รอยต่อสงครามกับสันติภาพ",
+          "detail": "รัฐบาลช่วงสั้นนี้แถลงให้เร่งงานเพื่อรองรับการเจรจาหลังสงคราม และปราบปรามอาชญากรรมเพื่อรักษาความสงบภายใน เมื่อ 1 กันยายน 2488",
+          "sourceUrl": "https://www.soc.go.th/?page_id=6017"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "soc-thawi-policy"
+      ]
+    },
+    {
+      "id": "seni",
+      "ordinal": 6,
+      "name": "ม.ร.ว. เสนีย์ ปราโมช",
+      "shortName": "เสนีย์",
+      "englishName": "Seni Pramoj",
+      "era": "foundation",
+      "terms": [
+        {
+          "id": "seni-1",
+          "start": "1945-09-17",
+          "end": "1946-01-31",
+          "label": "ช่วงที่ 1"
+        },
+        {
+          "id": "seni-2",
+          "start": "1975-02-15",
+          "end": "1975-03-14",
+          "label": "ช่วงที่ 2"
+        },
+        {
+          "id": "seni-3",
+          "start": "1976-04-20",
+          "end": "1976-10-06",
+          "label": "ช่วงที่ 3"
+        }
+      ],
+      "portrait": "/portraits/seni.jpg",
+      "portraitCredit": {
+        "author": "Joop van Bilsen for Anefo",
+        "license": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Seni_Pramot_1961_cropped.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 6 มีทั้งวาระฟื้นความสัมพันธ์หลังสงคราม และวาระในช่วงความขัดแย้งการเมือง พ.ศ. 2518–2519",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 6 มีช่วงดำรงตำแหน่งที่แยกจากกัน 3 ช่วงตามขอบเขตข้อมูลของเว็บไซต์",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "นโยบายฟื้นความสัมพันธ์หลังสงคราม",
+          "detail": "คำแถลงวันที่ 19 กันยายน 2488 ให้ดำเนินการตามประกาศสันติภาพ 16 สิงหาคม และส่งเสริมสัมพันธไมตรีระหว่างประเทศ เป็นนโยบายที่ประกาศในวาระแรก",
+          "sourceUrl": "https://www.soc.go.th/?page_id=6020"
+        },
+        {
+          "title": "บริบทสิ้นสุดรัฐบาล พ.ศ. 2519",
+          "detail": "วันที่ 6 ตุลาคม 2519 เกิดการยึดอำนาจที่ทำให้รัฐธรรมนูญ พ.ศ. 2517 รัฐสภา และคณะรัฐมนตรีสิ้นสุดลงตามบันทึก สลค.",
+          "sourceUrl": "https://www.soc.go.th/?page_id=5923"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "soc-seni-policy",
+        "soc-seni-1976"
+      ]
+    },
+    {
+      "id": "pridi",
+      "ordinal": 7,
+      "name": "ปรีดี พนมยงค์",
+      "shortName": "ปรีดี",
+      "englishName": "Pridi Banomyong",
+      "era": "foundation",
+      "terms": [
+        {
+          "id": "pridi-1",
+          "start": "1946-03-24",
+          "end": "1946-08-23",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/pridi.png",
+      "portraitCredit": {
+        "author": "Thai government (รัฐบาลไทย)",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Pridi_Banomyong_in_1946_(cropped).png"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 7 ดำรงตำแหน่งในปีที่ไทยเปลี่ยนรัฐสภาเป็นระบบสองสภาตามรัฐธรรมนูญ พ.ศ. 2489",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 7 เริ่มดำรงตำแหน่งใน พ.ศ. 2489",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "บทบาทก่อนเป็นนายกรัฐมนตรี",
+          "detail": "ก่อตั้งและเป็นผู้ประศาสน์การมหาวิทยาลัยวิชาธรรมศาสตร์และการเมืองใน พ.ศ. 2477 เป็นประวัติก่อนวาระนายกรัฐมนตรี พ.ศ. 2489",
+          "sourceUrl": "https://tu.ac.th/thammasat-110568-pridi-banomyong-2568/"
+        },
+        {
+          "title": "เริ่มระบบสองสภาใน พ.ศ. 2489",
+          "detail": "รัฐธรรมนูญ พ.ศ. 2489 ซึ่งประกาศใช้ในวาระนี้ เปลี่ยนรัฐสภาเป็นสภาผู้แทนและพฤฒสภา โดยมีการเลือกสมาชิกพฤฒสภาชุดแรกวันที่ 24 พฤษภาคม 2489",
+          "sourceUrl": "https://parliamentmuseum.go.th/2564/ar64-senate.html"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "tu-pridi",
+        "parliament-bicameral"
+      ]
+    },
+    {
+      "id": "thawan",
+      "ordinal": 8,
+      "name": "ถวัลย์ ธำรงนาวาสวัสดิ์",
+      "shortName": "ถวัลย์",
+      "englishName": "Thawan Thamrongnawasawat",
+      "era": "foundation",
+      "terms": [
+        {
+          "id": "thawan-1",
+          "start": "1946-08-23",
+          "end": "1947-11-08",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/thawan.jpg",
+      "portraitCredit": {
+        "author": "Unknown author",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Thawal_Thamrong_Navaswadhi_(cropped).jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 8 ดำรงตำแหน่งระหว่าง พ.ศ. 2489–2490",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 8 เริ่มดำรงตำแหน่งใน พ.ศ. 2489",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "ประเทศไทยเข้าร่วมสหประชาชาติ",
+          "detail": "สมาชิกภาพของประเทศไทยในสหประชาชาติมีผลวันที่ 16 ธันวาคม 2489 ระหว่างวาระนี้",
+          "sourceUrl": "https://treaties.un.org/Pages/ShowMTDSGDetails.aspx?chapter=1&lang=en&mtdsg_no=I-2&src=UNTSONLINE&tabid=3"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "un-thailand-membership"
+      ]
+    },
+    {
+      "id": "pote",
+      "ordinal": 9,
+      "name": "พจน์ สารสิน",
+      "shortName": "พจน์",
+      "englishName": "Pote Sarasin",
+      "era": "foundation",
+      "terms": [
+        {
+          "id": "pote-1",
+          "start": "1957-09-21",
+          "end": "1958-01-01",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/pote.jpg",
+      "portraitCredit": {
+        "author": "The creator compiled or maintained the parent series, Historic Photograph File of National Archives Events and Personnel, between 1935–1975.",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Pote_Sarasin,_Ambassador_of_Thailand.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 9 รับภารกิจจัดการเลือกตั้งภายในกรอบ 90 วันที่กำหนดไว้ใน พ.ศ. 2500",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 9 เริ่มดำรงตำแหน่งใน พ.ศ. 2500",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "ภารกิจจัดการเลือกตั้ง",
+          "detail": "แถลงนโยบายวันที่ 24 กันยายน 2500 ให้จัดการเลือกตั้งภายใน 90 วันตามกรอบที่กำหนด พร้อมรักษาเสถียรภาพเงินตรา ทั้งสองข้อเป็นคำมั่นของรัฐบาลในเวลานั้น",
+          "sourceUrl": "https://www.soc.go.th/?page_id=10991"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "soc-pote-policy"
+      ]
+    },
+    {
+      "id": "thanom",
+      "ordinal": 10,
+      "name": "จอมพล ถนอม กิตติขจร",
+      "shortName": "ถนอม",
+      "englishName": "Thanom Kittikachorn",
+      "era": "development",
+      "terms": [
+        {
+          "id": "thanom-1",
+          "start": "1958-01-01",
+          "end": "1958-10-20",
+          "label": "ช่วงที่ 1"
+        },
+        {
+          "id": "thanom-2",
+          "start": "1963-12-09",
+          "end": "1971-11-17",
+          "label": "ช่วงที่ 2"
+        },
+        {
+          "id": "thanom-3",
+          "start": "1972-12-18",
+          "end": "1973-10-14",
+          "label": "ช่วงที่ 3"
+        }
+      ],
+      "portrait": "/portraits/thanom.jpg",
+      "portraitCredit": {
+        "author": "Joost Evers for Anefo",
+        "license": "CC0",
+        "url": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Thanom_Kittikachorn_(cropped).jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 10 มีวาระใน พ.ศ. 2501 และกลับมาดำรงตำแหน่งในทศวรรษ 2500–2510",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 10 มีช่วงดำรงตำแหน่งที่แยกจากกัน 3 ช่วงตามขอบเขตข้อมูลของเว็บไซต์",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "แผนพัฒนาต่อเนื่อง",
+          "detail": "แผนพัฒนาฉบับที่ 1 ระยะที่ 2 พ.ศ. 2507–2509 และฉบับที่ 2 พ.ศ. 2510–2514 อยู่ในช่วงรัฐบาลนี้",
+          "sourceUrl": "https://www.nesdc.go.th/the-national-economic-and-social-development-plan/"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "nesdc-plans"
+      ]
+    },
+    {
+      "id": "sarit",
+      "ordinal": 11,
+      "name": "จอมพล สฤษดิ์ ธนะรัชต์",
+      "shortName": "สฤษดิ์",
+      "englishName": "Sarit Thanarat",
+      "era": "development",
+      "terms": [
+        {
+          "id": "sarit-1",
+          "start": "1959-02-09",
+          "end": "1963-12-08",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/sarit.jpg",
+      "portraitCredit": {
+        "author": "Unknown author",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Sarit_Thanarat_portrait.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 11 ดำรงตำแหน่งในช่วงเริ่มใช้แผนพัฒนาเศรษฐกิจแห่งชาติฉบับแรก",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 11 เริ่มดำรงตำแหน่งใน พ.ศ. 2502",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "เริ่มแผนพัฒนาฉบับแรก",
+          "detail": "แผนพัฒนาเศรษฐกิจแห่งชาติฉบับที่ 1 ระยะแรกครอบคลุม พ.ศ. 2504–2506 อยู่ในช่วงรัฐบาลนี้",
+          "sourceUrl": "https://www.nesdc.go.th/the-national-economic-and-social-development-plan/"
+        },
+        {
+          "title": "บริบทอำนาจพิเศษ",
+          "detail": "ธรรมนูญการปกครอง พ.ศ. 2502 ให้นายกรัฐมนตรีใช้อำนาจพิเศษตามมาตรา 17 การอ่านผลงานเศรษฐกิจยุคนี้จึงต้องพิจารณาระบบตรวจสอบอำนาจและสิทธิเสรีภาพร่วมด้วย",
+          "sourceUrl": "https://library.parliament.go.th/sites/default/files/assets/files/works/research/by%20institute%20and%20independent%20scholars/pdf/NALT-research-by-independent-32.pdf"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "nesdc-plans",
+        "parliament-article17"
+      ]
+    },
+    {
+      "id": "sanya",
+      "ordinal": 12,
+      "name": "สัญญา ธรรมศักดิ์",
+      "shortName": "สัญญา",
+      "englishName": "Sanya Dharmasakti",
+      "era": "development",
+      "terms": [
+        {
+          "id": "sanya-1",
+          "start": "1973-10-14",
+          "end": "1975-02-15",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/sanya.jpg",
+      "portraitCredit": {
+        "author": "Norman Peagam",
+        "license": "CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanya_Dharmasakti_1974_(cropped).jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 12 เป็นผู้นำรัฐบาลในช่วงจัดทำรัฐธรรมนูญ พ.ศ. 2517 หลังเหตุการณ์เดือนตุลาคม พ.ศ. 2516",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 12 เริ่มดำรงตำแหน่งใน พ.ศ. 2516",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "การร่างรัฐธรรมนูญ พ.ศ. 2517",
+          "detail": "รัฐบาลตั้งคณะกรรมการร่างรัฐธรรมนูญ หลังผ่านความเห็นชอบของสภานิติบัญญัติแห่งชาติ รัฐธรรมนูญฉบับใหม่ประกาศใช้วันที่ 7 ตุลาคม 2517",
+          "sourceUrl": "https://wiki.kpi.ac.th/index.php?title=สมัชชาแห่งชาติ"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "kpi-constitution-1974"
+      ]
+    },
+    {
+      "id": "kukrit",
+      "ordinal": 13,
+      "name": "ม.ร.ว. คึกฤทธิ์ ปราโมช",
+      "shortName": "คึกฤทธิ์",
+      "englishName": "Kukrit Pramoj",
+      "era": "development",
+      "terms": [
+        {
+          "id": "kukrit-1",
+          "start": "1975-03-14",
+          "end": "1976-04-20",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/kukrit.jpg",
+      "portraitCredit": {
+        "author": "Norman Peagam",
+        "license": "CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Kukrit_Pramoj_1974_(cropped-1).jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 13 ดำรงตำแหน่งระหว่าง พ.ศ. 2518–2519",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 13 เริ่มดำรงตำแหน่งใน พ.ศ. 2518",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "ความสัมพันธ์ทางการทูตไทย–จีน",
+          "detail": "รัฐบาลไทยสถาปนาความสัมพันธ์ทางการทูตกับสาธารณรัฐประชาชนจีนวันที่ 1 กรกฎาคม 2518 ในวาระนี้",
+          "sourceUrl": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/e-book/saranrom/52publication.pdf"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "mfa-relations-china"
+      ]
+    },
+    {
+      "id": "thanin",
+      "ordinal": 14,
+      "name": "ธานินทร์ กรัยวิเชียร",
+      "shortName": "ธานินทร์",
+      "englishName": "Thanin Kraivichien",
+      "era": "development",
+      "terms": [
+        {
+          "id": "thanin-1",
+          "start": "1976-10-08",
+          "end": "1977-10-20",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/thanin.jpg",
+      "portraitCredit": {
+        "author": "Norman Peagam",
+        "license": "CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Thanin_and_Whitehouse_(cropped).jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 14 รัฐบาลประกาศให้ความมั่นคงเป็นฐานการพัฒนา ก่อนสิ้นวาระใน พ.ศ. 2520",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 14 เริ่มดำรงตำแหน่งใน พ.ศ. 2519",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "นโยบายที่ให้ความสำคัญกับความมั่นคง",
+          "detail": "คำแถลงนโยบาย พ.ศ. 2519 วางความมั่นคงเป็นฐานการพัฒนาเศรษฐกิจ และตั้งเป้าเตรียมกำลังป้องกันประเทศในระยะ 4 ปี เป็นเป้าหมายที่ประกาศ ไม่ใช่ผลดำเนินงานครบ 4 ปี",
+          "sourceUrl": "https://www.soc.go.th/?page_id=6141"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "soc-thanin-policy"
+      ]
+    },
+    {
+      "id": "kriangsak",
+      "ordinal": 15,
+      "name": "พลเอก เกรียงศักดิ์ ชมะนันทน์",
+      "shortName": "เกรียงศักดิ์",
+      "englishName": "Kriangsak Chamanan",
+      "era": "development",
+      "terms": [
+        {
+          "id": "kriangsak-1",
+          "start": "1977-11-11",
+          "end": "1980-03-03",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/kriangsak.jpg",
+      "portraitCredit": {
+        "author": "Norman Peagam",
+        "license": "CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Kriangsak_Chomanan_1976_(cropped2).jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 15 ในวาระมีการออกกฎหมายนิรโทษกรรมเกี่ยวกับเหตุการณ์ 6 ตุลาคม 2519",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 15 เริ่มดำรงตำแหน่งใน พ.ศ. 2520",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "นิรโทษกรรมคดีเหตุการณ์ 6 ตุลาคม",
+          "detail": "ในเดือนกันยายน 2521 รัฐบาลออกกฎหมายนิรโทษกรรมเกี่ยวกับการชุมนุม 4–6 ตุลาคม 2519 เป็นส่วนหนึ่งของการเปลี่ยนแนวทางรับมือความขัดแย้งทางการเมือง",
+          "sourceUrl": "https://wiki.kpi.ac.th/index.php?title=พลเอกเกรียงศักดิ์_ชมะนันทน์"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "kpi-kriangsak"
+      ]
+    },
+    {
+      "id": "prem",
+      "ordinal": 16,
+      "name": "พลเอก เปรม ติณสูลานนท์",
+      "shortName": "เปรม",
+      "englishName": "Prem Tinsulanonda",
+      "era": "development",
+      "terms": [
+        {
+          "id": "prem-1",
+          "start": "1980-03-03",
+          "end": "1988-08-04",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/prem.jpg",
+      "portraitCredit": {
+        "author": "Series: Reagan White House Photographs, 1/20/1981 - 1/20/1989 Collection: White House Photographic Collection, 1/20/1981 - 1/20/1989",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Prem_Tinsulanonda_1984.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 16 ดำรงตำแหน่งระหว่าง พ.ศ. 2523–2531 ในช่วงเริ่มพัฒนาพื้นที่ชายฝั่งทะเลตะวันออก",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 16 เริ่มดำรงตำแหน่งใน พ.ศ. 2523",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "พัฒนาชายฝั่งทะเลตะวันออก",
+          "detail": "แผนพัฒนาฉบับที่ 5 พ.ศ. 2525–2529 มีการพัฒนาพื้นที่ชายฝั่งทะเลตะวันออก ครอบคลุมฐานอุตสาหกรรมและท่าเรือน้ำลึก โครงการดำเนินต่อเนื่องข้ามรัฐบาล",
+          "sourceUrl": "https://www.nesdc.go.th/wp-content/uploads/2025/02/SuriyaMuseumBook.pdf"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "nesdc-eastern-seaboard"
+      ]
+    },
+    {
+      "id": "chatichai",
+      "ordinal": 17,
+      "name": "พลเอก ชาติชาย ชุณหะวัณ",
+      "shortName": "ชาติชาย",
+      "englishName": "Chatichai Choonhavan",
+      "era": "development",
+      "terms": [
+        {
+          "id": "chatichai-1",
+          "start": "1988-08-04",
+          "end": "1991-02-23",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/chatichai.jpg",
+      "portraitCredit": {
+        "author": "European Communities",
+        "license": "CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Chatichai_Choonhavan_1990.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 17 ผลักดันความร่วมมือกับอินโดจีนผ่านนโยบายเปลี่ยนสนามรบให้เป็นสนามการค้า",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 17 เริ่มดำรงตำแหน่งใน พ.ศ. 2531",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "เหตุการณ์สิ้นวาระ",
+          "detail": "รัฐบาลสิ้นสุดลงจากการยึดอำนาจของ รสช. วันที่ 23 กุมภาพันธ์ 2534",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "เปลี่ยนสนามรบให้เป็นสนามการค้า",
+          "detail": "ดำเนินนโยบายขยายความร่วมมือทางเศรษฐกิจกับประเทศเพื่อนบ้านในอินโดจีน แม้มีระบอบการเมืองต่างกัน พร้อมสนับสนุนการเจรจาความขัดแย้งในกัมพูชา",
+          "sourceUrl": "https://wiki.kpi.ac.th/index.php?title=นโยบายเปลี่ยนสนามรบให้เป็นสนามการค้า"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "kpi-battlefields-markets"
+      ]
+    },
+    {
+      "id": "anand",
+      "ordinal": 18,
+      "name": "อานันท์ ปันยารชุน",
+      "shortName": "อานันท์",
+      "englishName": "Anand Panyarachun",
+      "era": "modern",
+      "terms": [
+        {
+          "id": "anand-1",
+          "start": "1991-03-02",
+          "end": "1992-04-07",
+          "label": "ช่วงที่ 1"
+        },
+        {
+          "id": "anand-2",
+          "start": "1992-06-10",
+          "end": "1992-09-23",
+          "label": "ช่วงที่ 2"
+        }
+      ],
+      "portrait": "/portraits/anand.jpg",
+      "portraitCredit": {
+        "author": "Universitätsarchiv St.Gallen | Regina Kühne | HSGN 028/01026",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Anan_Panyarachun_1995_cropped.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 18 ดำรงตำแหน่งสองช่วงใน พ.ศ. 2534–2535",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 18 มีช่วงดำรงตำแหน่งที่แยกจากกัน 2 ช่วงตามขอบเขตข้อมูลของเว็บไซต์",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "ข้อเสนอเขตการค้าเสรีอาเซียน",
+          "detail": "เสนอแนวคิด AFTA ต่อการประชุมสุดยอดอาเซียนที่สิงคโปร์ใน พ.ศ. 2535 ตามบันทึกของอาเซียน",
+          "sourceUrl": "https://asean.org/the-founding-of-asean/asean-conception-and-evolution-by-thanat-khoman/"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "asean-afta"
+      ]
+    },
+    {
+      "id": "suchinda",
+      "ordinal": 19,
+      "name": "พลเอก สุจินดา คราประยูร",
+      "shortName": "สุจินดา",
+      "englishName": "Suchinda Kraprayoon",
+      "era": "modern",
+      "terms": [
+        {
+          "id": "suchinda-1",
+          "start": "1992-04-07",
+          "end": "1992-05-24",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/suchinda.jpg",
+      "portraitCredit": {
+        "author": "DarKFuReXZ",
+        "license": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Suchinda_Kraprayoon_in_1992_(cropped).jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 19 ดำรงตำแหน่งช่วงเดือนเมษายนถึงพฤษภาคม พ.ศ. 2535",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 19 เริ่มดำรงตำแหน่งใน พ.ศ. 2535",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "เหตุการณ์พฤษภาคม พ.ศ. 2535",
+          "detail": "สิ้นสุดการดำรงตำแหน่งหลังเหตุการณ์พฤษภาคม พ.ศ. 2535 จึงไม่ควรตีความข้อมูลรายปีทั้งปีเป็นผลงานของรัฐบาลช่วงสั้นนี้",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms"
+      ]
+    },
+    {
+      "id": "chuan",
+      "ordinal": 20,
+      "name": "ชวน หลีกภัย",
+      "shortName": "ชวน",
+      "englishName": "Chuan Leekpai",
+      "era": "modern",
+      "terms": [
+        {
+          "id": "chuan-1",
+          "start": "1992-09-23",
+          "end": "1995-07-13",
+          "label": "ช่วงที่ 1"
+        },
+        {
+          "id": "chuan-2",
+          "start": "1997-11-09",
+          "end": "2001-02-09",
+          "label": "ช่วงที่ 2"
+        }
+      ],
+      "portrait": "/portraits/chuan.jpg",
+      "portraitCredit": {
+        "author": "Ralph Alswang",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Chuan_Likphai_1993_cropped.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 20 ดำรงตำแหน่งสองช่วง โดยช่วงหลังเริ่มระหว่างวิกฤตเศรษฐกิจ พ.ศ. 2540",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 20 มีช่วงดำรงตำแหน่งที่แยกจากกัน 2 ช่วงตามขอบเขตข้อมูลของเว็บไซต์",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "วาระที่สองและการฟื้นฟู",
+          "detail": "กลับมารับตำแหน่งในเดือนพฤศจิกายน 2540 ขณะประเทศไทยดำเนินมาตรการแก้วิกฤตการเงิน",
+          "sourceUrl": "https://www.bot.or.th/th/our-roles/special-measures/Tom-Yum-Kung-lesson.html"
+        },
+        {
+          "title": "การปรับระบบสถาบันการเงิน",
+          "detail": "วันที่ 8 ธันวาคม 2540 ทางการปิดสถาบันการเงิน 56 แห่งอย่างถาวร และดำเนินการจัดการสินทรัพย์ผ่าน ปรส. เป็นมาตรการระหว่างวิกฤตที่มีทั้งเป้าหมายฟื้นระบบและผลกระทบต่อผู้เกี่ยวข้อง",
+          "sourceUrl": "https://www.bot.or.th/content/dam/bot/documents/th/research-and-publications/reports/bot-report/annual-report/AnnualReport_2541.pdf"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "bot-crisis",
+        "bot-report-1998"
+      ]
+    },
+    {
+      "id": "banharn",
+      "ordinal": 21,
+      "name": "บรรหาร ศิลปอาชา",
+      "shortName": "บรรหาร",
+      "englishName": "Banharn Silpa-archa",
+      "era": "modern",
+      "terms": [
+        {
+          "id": "banharn-1",
+          "start": "1995-07-13",
+          "end": "1996-11-25",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/banharn.jpg",
+      "portraitCredit": {
+        "author": "Christian Lambiotte, European Union",
+        "license": "CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Banharn_Silpa-Archa_1996.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 21 รัฐบาลเสนอแก้รัฐธรรมนูญเพื่อเปิดทางจัดตั้งสภาร่างรัฐธรรมนูญใน พ.ศ. 2539",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 21 เริ่มดำรงตำแหน่งใน พ.ศ. 2538",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "การเปลี่ยนผ่านสู่การเลือกตั้ง",
+          "detail": "ยุบสภาผู้แทนราษฎรวันที่ 27 กันยายน 2539 ก่อนมีการเลือกตั้งและแต่งตั้งนายกรัฐมนตรีคนใหม่ในเดือนพฤศจิกายน",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "เปิดทางสภาร่างรัฐธรรมนูญ",
+          "detail": "รัฐบาลเสนอแก้ไขรัฐธรรมนูญมาตรา 211 ใน พ.ศ. 2539 เพื่อให้มีสภาร่างรัฐธรรมนูญ เป็นขั้นตอนก่อนจัดทำรัฐธรรมนูญ พ.ศ. 2540 ซึ่งประกาศใช้ในรัฐบาลถัดมา",
+          "sourceUrl": "https://wiki.kpi.ac.th/index.php?title=การเลือกตั้งสมาชิกวุฒิสภา_พ.ศ._2543"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "kpi-constitutional-reform"
+      ]
+    },
+    {
+      "id": "chavalit",
+      "ordinal": 22,
+      "name": "พลเอก ชวลิต ยงใจยุทธ",
+      "shortName": "ชวลิต",
+      "englishName": "Chavalit Yongchaiyudh",
+      "era": "modern",
+      "terms": [
+        {
+          "id": "chavalit-1",
+          "start": "1996-11-25",
+          "end": "1997-11-09",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/chavalit.jpg",
+      "portraitCredit": {
+        "author": "Thairath Online",
+        "license": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Chavalit_Yongchaiyudh.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 22 ดำรงตำแหน่งในช่วงที่ไทยเปลี่ยนระบบอัตราแลกเปลี่ยนและเกิดวิกฤตเศรษฐกิจ พ.ศ. 2540",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 22 เริ่มดำรงตำแหน่งใน พ.ศ. 2539",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "บริบทวิกฤตเศรษฐกิจ",
+          "detail": "ไทยเริ่มลอยตัวค่าเงินบาทวันที่ 2 กรกฎาคม 2540 ระหว่างวาระนี้ ธปท. อธิบายว่าวิกฤตมีความเสี่ยงสะสมหลายด้าน",
+          "sourceUrl": "https://www.bot.or.th/th/our-roles/special-measures/Tom-Yum-Kung-lesson.html"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "bot-crisis"
+      ]
+    },
+    {
+      "id": "thaksin",
+      "ordinal": 23,
+      "name": "ทักษิณ ชินวัตร",
+      "shortName": "ทักษิณ",
+      "englishName": "Thaksin Shinawatra",
+      "era": "modern",
+      "terms": [
+        {
+          "id": "thaksin-1",
+          "start": "2001-02-09",
+          "end": "2006-09-19",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/thaksin.jpg",
+      "portraitCredit": {
+        "author": "DoD photo by Helene C. Stikkel",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Thaksin_DOD_20050915_(crop).jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 23 ดำรงตำแหน่งระหว่าง พ.ศ. 2544–2549",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 23 เริ่มดำรงตำแหน่งใน พ.ศ. 2544",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "หลักประกันสุขภาพถ้วนหน้า",
+          "detail": "รัฐบาลเริ่มขยายระบบหลักประกันสุขภาพถ้วนหน้าใน พ.ศ. 2544 ตามการศึกษาของ WHO การวัดผลต้องแยกจากพัฒนาการระบบสุขภาพที่มีมาก่อน",
+          "sourceUrl": "https://iris.who.int/bitstream/handle/10665/379673/9789240102743-eng.pdf?sequence=1"
+        },
+        {
+          "title": "เหตุการณ์สิ้นวาระ",
+          "detail": "รัฐบาลสิ้นสุดลงจากการยึดอำนาจวันที่ 19 กันยายน 2549 จึงควรอ่านทั้งบริบทการเมืองและผลลัพธ์ด้านเศรษฐกิจร่วมกัน",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "who-ucs"
+      ]
+    },
+    {
+      "id": "surayud",
+      "ordinal": 24,
+      "name": "พลเอก สุรยุทธ์ จุลานนท์",
+      "shortName": "สุรยุทธ์",
+      "englishName": "Surayud Chulanont",
+      "era": "modern",
+      "terms": [
+        {
+          "id": "surayud-1",
+          "start": "2006-10-01",
+          "end": "2008-01-29",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/surayud.jpg",
+      "portraitCredit": {
+        "author": "Ministry of External Affairs",
+        "license": "GODL-India",
+        "url": "https://commons.wikimedia.org/wiki/File:The_Union_Minister_of_External_Affairs,_Shri_Pranab_Mukherjee_meeting_with_the_Prime_Minister_of_the_Kingdom_of_Thailand,_Mr._General_Surayud_Chulanont,_in_New_Delhi_on_June_26,_2007_(cropped2).jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 24 ดำรงตำแหน่งระหว่าง พ.ศ. 2549–2551",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 24 เริ่มดำรงตำแหน่งใน พ.ศ. 2549",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "ประชามติรัฐธรรมนูญ พ.ศ. 2550",
+          "detail": "การออกเสียงประชามติร่างรัฐธรรมนูญจัดขึ้นวันที่ 19 สิงหาคม 2550 ระหว่างวาระนี้ ภายหลังการรัฐประหาร พ.ศ. 2549",
+          "sourceUrl": "https://www.ect.go.th/web-upload/1xff0d34e409a13ef56eea54c52a291126/m_document/2167/26696/file_download/f12859b4024491269a5bb12958b7a20a.pdf"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "ect-referendum-2007"
+      ]
+    },
+    {
+      "id": "samak",
+      "ordinal": 25,
+      "name": "สมัคร สุนทรเวช",
+      "shortName": "สมัคร",
+      "englishName": "Samak Sundaravej",
+      "era": "modern",
+      "terms": [
+        {
+          "id": "samak-1",
+          "start": "2008-01-29",
+          "end": "2008-09-09",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/samak.jpg",
+      "portraitCredit": {
+        "author": "White House photo by Chris Greenberg",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:President_George_W._Bush_with_Prime_Minister_Samak_Sundaravej_(cropped).jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 25 ดำรงตำแหน่งระหว่างเดือนมกราคมถึงกันยายน พ.ศ. 2551",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 25 เริ่มดำรงตำแหน่งใน พ.ศ. 2551",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "เหตุการณ์สิ้นวาระ",
+          "detail": "วันที่ 9 กันยายน 2551 ศาลรัฐธรรมนูญวินิจฉัยให้ความเป็นนายกรัฐมนตรีสิ้นสุดลงจากกรณีรับงานจัดรายการโทรทัศน์",
+          "sourceUrl": "https://www.constitutionalcourt.or.th/occ_web/download/Scholarship/panuwatkongsom2564.pdf"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "court-samak"
+      ]
+    },
+    {
+      "id": "somchai",
+      "ordinal": 26,
+      "name": "สมชาย วงศ์สวัสดิ์",
+      "shortName": "สมชาย",
+      "englishName": "Somchai Wongsawat",
+      "era": "modern",
+      "terms": [
+        {
+          "id": "somchai-1",
+          "start": "2008-09-18",
+          "end": "2008-12-02",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/somchai.jpg",
+      "portraitCredit": {
+        "author": "Prime Minister's Office",
+        "license": "GODL-India",
+        "url": "https://commons.wikimedia.org/wiki/File:The_Prime_Minister_of_Thailand,_Mr._Somchai_Wangsawat_meeting_the_Prime_Minister,_Dr._Manmohan_Singh,_in_New_Delhi_on_November_13,_2008_(cropped)_(cropped).jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 26 ดำรงตำแหน่งระหว่างเดือนกันยายนถึงธันวาคม พ.ศ. 2551",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 26 เริ่มดำรงตำแหน่งใน พ.ศ. 2551",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "เหตุการณ์สิ้นวาระ",
+          "detail": "สิ้นสุดตำแหน่งหลังคำวินิจฉัยยุบพรรคพลังประชาชนและเพิกถอนสิทธิเลือกตั้งกรรมการบริหารพรรคเมื่อ 2 ธันวาคม 2551",
+          "sourceUrl": "https://constitutionalcourt.or.th/occ_web/ewt_dl_link.php?nid=442"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "court-somchai"
+      ]
+    },
+    {
+      "id": "abhisit",
+      "ordinal": 27,
+      "name": "อภิสิทธิ์ เวชชาชีวะ",
+      "shortName": "อภิสิทธิ์",
+      "englishName": "Abhisit Vejjajiva",
+      "era": "modern",
+      "terms": [
+        {
+          "id": "abhisit-1",
+          "start": "2008-12-17",
+          "end": "2011-08-05",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/abhisit.jpg",
+      "portraitCredit": {
+        "author": "Government of Thailand",
+        "license": "CC BY 2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Abhisit_Vejjajiva_2009_official.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 27 ดำรงตำแหน่งระหว่าง พ.ศ. 2551–2554",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 27 เริ่มดำรงตำแหน่งใน พ.ศ. 2551",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "เรียนฟรี 15 ปี",
+          "detail": "กระทรวงศึกษาธิการเริ่มดำเนินนโยบายเรียนฟรี 15 ปีอย่างมีคุณภาพตั้งแต่ภาคเรียนที่ 1 ปีการศึกษา 2552",
+          "sourceUrl": "https://www.moe.go.th/ศธ-เปิดศูนย์สนับสนุนนโย/"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "moe-free-education"
+      ]
+    },
+    {
+      "id": "yingluck",
+      "ordinal": 28,
+      "name": "ยิ่งลักษณ์ ชินวัตร",
+      "shortName": "ยิ่งลักษณ์",
+      "englishName": "Yingluck Shinawatra",
+      "era": "modern",
+      "terms": [
+        {
+          "id": "yingluck-1",
+          "start": "2011-08-05",
+          "end": "2014-05-07",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/yingluck.jpg",
+      "portraitCredit": {
+        "author": "Gerd Seidel ( Rob Irgendwer )",
+        "license": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:9153ri-Yingluck_Shinawatra.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 28 และนายกรัฐมนตรีหญิงคนแรกของไทย",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 28 เริ่มดำรงตำแหน่งใน พ.ศ. 2554",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "ค่าจ้างขั้นต่ำ 300 บาท",
+          "detail": "ตั้งแต่ 1 มกราคม 2556 ค่าจ้างขั้นต่ำเป็นวันละ 300 บาททั่วประเทศ ตัวเลขนี้เป็นอัตราตามกฎหมาย ไม่ใช่รายได้จริงของแรงงานทุกคน",
+          "sourceUrl": "https://www.mol.go.th/wp-content/uploads/sites/2/2019/07/lb_quater2_2557_for15Aug2014.pdf"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "mol-minimum-wage"
+      ]
+    },
+    {
+      "id": "prayut",
+      "ordinal": 29,
+      "name": "พลเอก ประยุทธ์ จันทร์โอชา",
+      "shortName": "ประยุทธ์",
+      "englishName": "Prayut Chan-o-cha",
+      "era": "modern",
+      "terms": [
+        {
+          "id": "prayut-1",
+          "start": "2014-08-24",
+          "end": "2023-08-22",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/prayut.jpg",
+      "portraitCredit": {
+        "author": "内閣官房内閣広報室",
+        "license": "CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Fumio_Kishida_and_Prayut_Chan-o-cha_at_the_Prime_Minister%27s_Office_2022_(1)_(cropped).jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 29 ดำรงตำแหน่งระหว่าง พ.ศ. 2557–2566",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 29 เริ่มดำรงตำแหน่งใน พ.ศ. 2557",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "บัตรสวัสดิการแห่งรัฐ",
+          "detail": "บัตรสวัสดิการแห่งรัฐเฟสแรกเริ่มใช้วันที่ 1 ตุลาคม 2560 ระหว่างรัฐบาลนี้ เป็นมาตรการช่วยค่าครองชีพสำหรับผู้ผ่านเกณฑ์",
+          "sourceUrl": "https://www.fpo.go.th/main/getattachment/General-information-public-service/ประชาชนควรรู้/8198/เฟส-1-ผู้มีรายได้น้อย.pdf.aspx"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "government-directory",
+        "fpo-welfare-card"
+      ]
+    },
+    {
+      "id": "srettha",
+      "ordinal": 30,
+      "name": "เศรษฐา ทวีสิน",
+      "shortName": "เศรษฐา",
+      "englishName": "Srettha Thavisin",
+      "era": "modern",
+      "terms": [
+        {
+          "id": "srettha-1",
+          "start": "2023-08-22",
+          "end": "2024-08-14",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/srettha.jpg",
+      "portraitCredit": {
+        "author": "首相官邸ホームページ",
+        "license": "CC BY 4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:PM_Srettha_Thavisin_2023_(cropped).jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 30 ดำรงตำแหน่งระหว่าง พ.ศ. 2566–2567",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 30 เริ่มดำรงตำแหน่งใน พ.ศ. 2566",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "ความตกลงยกเว้นวีซ่าไทย–จีน",
+          "detail": "ลงนามความตกลงยกเว้นการตรวจลงตราซึ่งกันและกันเมื่อ 28 มกราคม 2567 และเริ่มใช้ 1 มีนาคม 2567 ภายใต้เงื่อนไขของความตกลง",
+          "sourceUrl": "https://mfa.go.th/th/content/thcn280124-2?cate=5d5bcb4e15e39c306000683b"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "government-directory",
+        "mfa-thai-china-visa"
+      ]
+    },
+    {
+      "id": "paetongtarn",
+      "ordinal": 31,
+      "name": "แพทองธาร ชินวัตร",
+      "shortName": "แพทองธาร",
+      "englishName": "Paetongtarn Shinawatra",
+      "era": "modern",
+      "terms": [
+        {
+          "id": "paetongtarn-1",
+          "start": "2024-08-16",
+          "end": "2025-08-29",
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/paetongtarn.jpg",
+      "portraitCredit": {
+        "author": "U.S. Embassy, Bangkok",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Paetongtarn_Shinawatra_June_2025.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 31 ดำรงตำแหน่งระหว่าง พ.ศ. 2567–2568",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 31 เริ่มดำรงตำแหน่งใน พ.ศ. 2567",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "วันเริ่มวาระตามประกาศ",
+          "detail": "ใช้วันที่ 16 สิงหาคม 2567 ซึ่งเป็นวันลงประกาศแต่งตั้ง แยกจากพิธีรับพระบรมราชโองการวันที่ 18 สิงหาคม",
+          "sourceUrl": "https://spm.thaigov.go.th/web-upload/1xff0d34e409a13ef56eea54c52a291126/m_document/37/4420/file_download/b15cb1b070b991d78b859fe218722ccb.pdf"
+        },
+        {
+          "title": "กฎหมายสมรสเท่าเทียมเริ่มใช้",
+          "detail": "กฎหมายสมรสเท่าเทียมมีผลวันที่ 23 มกราคม 2568 ระหว่างวาระนี้ การผลักดันกฎหมายเกิดจากรัฐสภา ภาคประชาชน และหลายรัฐบาล",
+          "sourceUrl": "https://mfa.go.th/th/content/weekly-press-briefing-240125-th"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "government-directory",
+        "mfa-marriage-equality",
+        "paetongtarn-appointment"
+      ]
+    },
+    {
+      "id": "anutin",
+      "ordinal": 32,
+      "name": "อนุทิน ชาญวีรกูล",
+      "shortName": "อนุทิน",
+      "englishName": "Anutin Charnvirakul",
+      "era": "modern",
+      "terms": [
+        {
+          "id": "anutin-1",
+          "start": "2025-09-07",
+          "end": null,
+          "label": "ช่วงดำรงตำแหน่ง"
+        }
+      ],
+      "portrait": "/portraits/anutin.jpg",
+      "portraitCredit": {
+        "author": "Daniel Torok / The White House",
+        "license": "Public domain",
+        "url": "https://commons.wikimedia.org/wiki/File:Anutin_Charnvirakul_in_2025.jpg"
+      },
+      "summary": "นายกรัฐมนตรีคนที่ 32 และผู้ดำรงตำแหน่งปัจจุบันตามข้อมูลรัฐบาลที่ตรวจเมื่อ 3 ตุลาคม 2569",
+      "highlights": [
+        {
+          "title": "บันทึกการดำรงตำแหน่ง",
+          "detail": "นายกรัฐมนตรีคนที่ 32 เริ่มดำรงตำแหน่งใน พ.ศ. 2568",
+          "sourceUrl": "https://www.soc.go.th/?page_id=8567"
+        },
+        {
+          "title": "ได้รับแต่งตั้งอีกครั้งในปี 2569",
+          "detail": "ประกาศแต่งตั้งลงวันที่ 19 มีนาคม 2569 หลังสภามีมติเห็นชอบ และมีพิธีรับพระบรมราชโองการวันที่ 20 มีนาคม",
+          "sourceUrl": "https://www.thaigov.go.th/th/news/162465"
+        },
+        {
+          "title": "นโยบายรัฐบาล พ.ศ. 2569",
+          "detail": "แถลงนโยบายต่อรัฐสภาวันที่ 9 เมษายน 2569 ภายใต้กรอบนโยบาย 10 พลัส บันทึกนี้เป็นหลักฐานนโยบายที่ประกาศ ยังไม่ใช่ผลลัพธ์ที่ประเมินสำเร็จแล้ว",
+          "sourceUrl": "https://www.thaigov.go.th/th/news/162941"
+        }
+      ],
+      "sourceIds": [
+        "soc-history",
+        "soc-cabinets",
+        "wiki-terms",
+        "government-directory",
+        "anutin-reappointment",
+        "government-policy-2026"
+      ]
+    }
+  ]
+}

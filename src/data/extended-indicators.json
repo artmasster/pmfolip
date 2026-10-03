@@ -1,0 +1,1241 @@
+{
+  "asOf": "2026-10-03",
+  "indicators": [
+    {
+      "id": "vdem-electoral-democracy",
+      "category": "governance",
+      "categoryLabel": "ธรรมาภิบาลและสิทธิ",
+      "name": "ประชาธิปไตยด้านการเลือกตั้ง (V-Dem)",
+      "description": "ค่าประมาณสถาบันการเมืองจากสิทธิเลือกตั้ง การเลือกตั้ง เสรีภาพการแสดงออกและการรวมกลุ่ม ไม่ใช่คะแนนความสามารถนายกฯ",
+      "unit": "index",
+      "unitLabel": "ดัชนี 0–1",
+      "direction": "higher",
+      "scorable": true,
+      "scoreFamily": "civic-rights",
+      "scorePriority": 10,
+      "source": {
+        "title": "V-Dem v16 (2026) · Our World in Data",
+        "url": "https://ourworldindata.org/grapher/electoral-democracy-index",
+        "code": "v2x_polyarchy · V-Dem v16",
+        "apiUrl": "https://ourworldindata.org/grapher/electoral-democracy-index.csv",
+        "lastUpdated": "2026-03-17"
+      },
+      "values": [
+        {
+          "year": 1932,
+          "value": 0.027
+        },
+        {
+          "year": 1933,
+          "value": 0.108
+        },
+        {
+          "year": 1934,
+          "value": 0.131
+        },
+        {
+          "year": 1935,
+          "value": 0.131
+        },
+        {
+          "year": 1936,
+          "value": 0.133
+        },
+        {
+          "year": 1937,
+          "value": 0.149
+        },
+        {
+          "year": 1938,
+          "value": 0.152
+        },
+        {
+          "year": 1939,
+          "value": 0.151
+        },
+        {
+          "year": 1940,
+          "value": 0.148
+        },
+        {
+          "year": 1941,
+          "value": 0.155
+        },
+        {
+          "year": 1942,
+          "value": 0.155
+        },
+        {
+          "year": 1943,
+          "value": 0.155
+        },
+        {
+          "year": 1944,
+          "value": 0.155
+        },
+        {
+          "year": 1945,
+          "value": 0.162
+        },
+        {
+          "year": 1946,
+          "value": 0.172
+        },
+        {
+          "year": 1947,
+          "value": 0.143
+        },
+        {
+          "year": 1948,
+          "value": 0.13
+        },
+        {
+          "year": 1949,
+          "value": 0.13
+        },
+        {
+          "year": 1950,
+          "value": 0.131
+        },
+        {
+          "year": 1951,
+          "value": 0.129
+        },
+        {
+          "year": 1952,
+          "value": 0.118
+        },
+        {
+          "year": 1953,
+          "value": 0.121
+        },
+        {
+          "year": 1954,
+          "value": 0.123
+        },
+        {
+          "year": 1955,
+          "value": 0.133
+        },
+        {
+          "year": 1956,
+          "value": 0.137
+        },
+        {
+          "year": 1957,
+          "value": 0.142
+        },
+        {
+          "year": 1958,
+          "value": 0.127
+        },
+        {
+          "year": 1959,
+          "value": 0.108
+        },
+        {
+          "year": 1960,
+          "value": 0.112
+        },
+        {
+          "year": 1961,
+          "value": 0.112
+        },
+        {
+          "year": 1962,
+          "value": 0.112
+        },
+        {
+          "year": 1963,
+          "value": 0.112
+        },
+        {
+          "year": 1964,
+          "value": 0.112
+        },
+        {
+          "year": 1965,
+          "value": 0.112
+        },
+        {
+          "year": 1966,
+          "value": 0.112
+        },
+        {
+          "year": 1967,
+          "value": 0.114
+        },
+        {
+          "year": 1968,
+          "value": 0.126
+        },
+        {
+          "year": 1969,
+          "value": 0.15
+        },
+        {
+          "year": 1970,
+          "value": 0.154
+        },
+        {
+          "year": 1971,
+          "value": 0.148
+        },
+        {
+          "year": 1972,
+          "value": 0.114
+        },
+        {
+          "year": 1973,
+          "value": 0.127
+        },
+        {
+          "year": 1974,
+          "value": 0.177
+        },
+        {
+          "year": 1975,
+          "value": 0.271
+        },
+        {
+          "year": 1976,
+          "value": 0.231
+        },
+        {
+          "year": 1977,
+          "value": 0.124
+        },
+        {
+          "year": 1978,
+          "value": 0.125
+        },
+        {
+          "year": 1979,
+          "value": 0.142
+        },
+        {
+          "year": 1980,
+          "value": 0.25
+        },
+        {
+          "year": 1981,
+          "value": 0.288
+        },
+        {
+          "year": 1982,
+          "value": 0.292
+        },
+        {
+          "year": 1983,
+          "value": 0.316
+        },
+        {
+          "year": 1984,
+          "value": 0.326
+        },
+        {
+          "year": 1985,
+          "value": 0.327
+        },
+        {
+          "year": 1986,
+          "value": 0.322
+        },
+        {
+          "year": 1987,
+          "value": 0.327
+        },
+        {
+          "year": 1988,
+          "value": 0.345
+        },
+        {
+          "year": 1989,
+          "value": 0.363
+        },
+        {
+          "year": 1990,
+          "value": 0.371
+        },
+        {
+          "year": 1991,
+          "value": 0.209
+        },
+        {
+          "year": 1992,
+          "value": 0.271
+        },
+        {
+          "year": 1993,
+          "value": 0.405
+        },
+        {
+          "year": 1994,
+          "value": 0.404
+        },
+        {
+          "year": 1995,
+          "value": 0.412
+        },
+        {
+          "year": 1996,
+          "value": 0.394
+        },
+        {
+          "year": 1997,
+          "value": 0.476
+        },
+        {
+          "year": 1998,
+          "value": 0.507
+        },
+        {
+          "year": 1999,
+          "value": 0.507
+        },
+        {
+          "year": 2000,
+          "value": 0.501
+        },
+        {
+          "year": 2001,
+          "value": 0.55
+        },
+        {
+          "year": 2002,
+          "value": 0.547
+        },
+        {
+          "year": 2003,
+          "value": 0.537
+        },
+        {
+          "year": 2004,
+          "value": 0.53
+        },
+        {
+          "year": 2005,
+          "value": 0.507
+        },
+        {
+          "year": 2006,
+          "value": 0.227
+        },
+        {
+          "year": 2007,
+          "value": 0.181
+        },
+        {
+          "year": 2008,
+          "value": 0.402
+        },
+        {
+          "year": 2009,
+          "value": 0.418
+        },
+        {
+          "year": 2010,
+          "value": 0.411
+        },
+        {
+          "year": 2011,
+          "value": 0.462
+        },
+        {
+          "year": 2012,
+          "value": 0.493
+        },
+        {
+          "year": 2013,
+          "value": 0.446
+        },
+        {
+          "year": 2014,
+          "value": 0.162
+        },
+        {
+          "year": 2015,
+          "value": 0.16
+        },
+        {
+          "year": 2016,
+          "value": 0.16
+        },
+        {
+          "year": 2017,
+          "value": 0.154
+        },
+        {
+          "year": 2018,
+          "value": 0.17
+        },
+        {
+          "year": 2019,
+          "value": 0.208
+        },
+        {
+          "year": 2020,
+          "value": 0.201
+        },
+        {
+          "year": 2021,
+          "value": 0.208
+        },
+        {
+          "year": 2022,
+          "value": 0.216
+        },
+        {
+          "year": 2023,
+          "value": 0.295
+        },
+        {
+          "year": 2024,
+          "value": 0.41
+        },
+        {
+          "year": 2025,
+          "value": 0.424
+        }
+      ],
+      "notes": "ข้อมูลไทย 94 ปีที่มีค่า ระหว่าง 1932–2025; เก็บเฉพาะปีตั้งแต่ 1932 ที่ต้นทางเผยแพร่จริง ไม่เติมช่องว่าง. เป็นค่าประมาณโดยผู้เชี่ยวชาญและแบบจำลองของ V-Dem ไม่ใช่การนับข้อเท็จจริงโดยตรงหรือทักษะบุคคล ค่าสูงขึ้นหมายถึงองค์ประกอบประชาธิปไตยด้านการเลือกตั้งตามนิยามแหล่งข้อมูลมากขึ้น ไม่ครอบคลุมธรรมาภิบาลทุกมิติ เก็บค่ากลางและไม่ได้เก็บช่วงความไม่แน่นอน จึงไม่ควรตีความความต่างเล็กน้อยเป็นข้อสรุปเด็ดขาด ใช้ v16 ทั้งอนุกรม ห้ามผสมรุ่นอื่น ต้นฉบับ Coppedge et al. (2026), V-Dem Dataset v16, https://doi.org/10.23696/vdemds26; ข้อมูลและค่าดัชนีที่คำนวณจากชุดนี้เผยแพร่ภายใต้ CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/ ."
+    },
+    {
+      "id": "life-expectancy-longrun",
+      "category": "health",
+      "categoryLabel": "สุขภาพ",
+      "name": "อายุคาดเฉลี่ยแรกเกิด (ชุดประวัติศาสตร์)",
+      "description": "จำนวนปีคาดหมายหากอัตราตายแต่ละวัยของปีอ้างอิงคงเดิม เป็นค่าประมาณของประชากรในปีนั้น",
+      "unit": "years",
+      "unitLabel": "ปี",
+      "direction": "higher",
+      "scorable": true,
+      "scoreFamily": "life-expectancy",
+      "scorePriority": 10,
+      "source": {
+        "title": "Zijdeman et al. (2015) / UN WPP (2024) · Our World in Data",
+        "url": "https://ourworldindata.org/grapher/life-expectancy",
+        "code": "OWID life_expectancy_0 · historical + UN WPP 2024",
+        "apiUrl": "https://ourworldindata.org/grapher/life-expectancy.csv",
+        "lastUpdated": "2025-10-22"
+      },
+      "values": [
+        {
+          "year": 1937,
+          "value": 40.3
+        },
+        {
+          "year": 1941,
+          "value": 38.3
+        },
+        {
+          "year": 1947,
+          "value": 41.8
+        },
+        {
+          "year": 1948,
+          "value": 49.9
+        },
+        {
+          "year": 1950,
+          "value": 45.1886
+        },
+        {
+          "year": 1951,
+          "value": 45.9204
+        },
+        {
+          "year": 1952,
+          "value": 46.498
+        },
+        {
+          "year": 1953,
+          "value": 47.0656
+        },
+        {
+          "year": 1954,
+          "value": 47.6198
+        },
+        {
+          "year": 1955,
+          "value": 48.1338
+        },
+        {
+          "year": 1956,
+          "value": 48.6388
+        },
+        {
+          "year": 1957,
+          "value": 49.1281
+        },
+        {
+          "year": 1958,
+          "value": 49.5483
+        },
+        {
+          "year": 1959,
+          "value": 50.1261
+        },
+        {
+          "year": 1960,
+          "value": 50.6085
+        },
+        {
+          "year": 1961,
+          "value": 51.065
+        },
+        {
+          "year": 1962,
+          "value": 51.4443
+        },
+        {
+          "year": 1963,
+          "value": 51.988
+        },
+        {
+          "year": 1964,
+          "value": 52.5386
+        },
+        {
+          "year": 1965,
+          "value": 53.131
+        },
+        {
+          "year": 1966,
+          "value": 53.7294
+        },
+        {
+          "year": 1967,
+          "value": 54.3155
+        },
+        {
+          "year": 1968,
+          "value": 54.9772
+        },
+        {
+          "year": 1969,
+          "value": 55.7047
+        },
+        {
+          "year": 1970,
+          "value": 56.4699
+        },
+        {
+          "year": 1971,
+          "value": 57.1004
+        },
+        {
+          "year": 1972,
+          "value": 57.7464
+        },
+        {
+          "year": 1973,
+          "value": 58.3234
+        },
+        {
+          "year": 1974,
+          "value": 59.0306
+        },
+        {
+          "year": 1975,
+          "value": 59.7128
+        },
+        {
+          "year": 1976,
+          "value": 60.3715
+        },
+        {
+          "year": 1977,
+          "value": 60.9061
+        },
+        {
+          "year": 1978,
+          "value": 61.2657
+        },
+        {
+          "year": 1979,
+          "value": 61.696
+        },
+        {
+          "year": 1980,
+          "value": 62.186
+        },
+        {
+          "year": 1981,
+          "value": 62.8557
+        },
+        {
+          "year": 1982,
+          "value": 63.6026
+        },
+        {
+          "year": 1983,
+          "value": 64.4998
+        },
+        {
+          "year": 1984,
+          "value": 65.5497
+        },
+        {
+          "year": 1985,
+          "value": 66.5429
+        },
+        {
+          "year": 1986,
+          "value": 67.3084
+        },
+        {
+          "year": 1987,
+          "value": 67.8333
+        },
+        {
+          "year": 1988,
+          "value": 68.1937
+        },
+        {
+          "year": 1989,
+          "value": 68.5574
+        },
+        {
+          "year": 1990,
+          "value": 68.9244
+        },
+        {
+          "year": 1991,
+          "value": 69.1322
+        },
+        {
+          "year": 1992,
+          "value": 69.353
+        },
+        {
+          "year": 1993,
+          "value": 69.5677
+        },
+        {
+          "year": 1994,
+          "value": 69.6609
+        },
+        {
+          "year": 1995,
+          "value": 69.7565
+        },
+        {
+          "year": 1996,
+          "value": 69.94
+        },
+        {
+          "year": 1997,
+          "value": 70.3622
+        },
+        {
+          "year": 1998,
+          "value": 70.7029
+        },
+        {
+          "year": 1999,
+          "value": 70.9787
+        },
+        {
+          "year": 2000,
+          "value": 71.2053
+        },
+        {
+          "year": 2001,
+          "value": 71.5198
+        },
+        {
+          "year": 2002,
+          "value": 71.7747
+        },
+        {
+          "year": 2003,
+          "value": 72.1012
+        },
+        {
+          "year": 2004,
+          "value": 72.1
+        },
+        {
+          "year": 2005,
+          "value": 72.8938
+        },
+        {
+          "year": 2006,
+          "value": 73.3413
+        },
+        {
+          "year": 2007,
+          "value": 73.7795
+        },
+        {
+          "year": 2008,
+          "value": 74.2205
+        },
+        {
+          "year": 2009,
+          "value": 74.6691
+        },
+        {
+          "year": 2010,
+          "value": 75.0117
+        },
+        {
+          "year": 2011,
+          "value": 75.3015
+        },
+        {
+          "year": 2012,
+          "value": 75.5899
+        },
+        {
+          "year": 2013,
+          "value": 75.9601
+        },
+        {
+          "year": 2014,
+          "value": 76.2792
+        },
+        {
+          "year": 2015,
+          "value": 76.5631
+        },
+        {
+          "year": 2016,
+          "value": 76.7693
+        },
+        {
+          "year": 2017,
+          "value": 76.9888
+        },
+        {
+          "year": 2018,
+          "value": 77.1903
+        },
+        {
+          "year": 2019,
+          "value": 77.1967
+        },
+        {
+          "year": 2020,
+          "value": 77.3314
+        },
+        {
+          "year": 2021,
+          "value": 77.6065
+        },
+        {
+          "year": 2022,
+          "value": 75.2913
+        },
+        {
+          "year": 2023,
+          "value": 76.4115
+        }
+      ],
+      "notes": "ข้อมูลไทย 78 ปีที่มีค่า ระหว่าง 1937–2023; เก็บเฉพาะปีตั้งแต่ 1932 ที่ต้นทางเผยแพร่จริง ไม่เติมช่องว่าง. OWID รวมงานประวัติศาสตร์ก่อนปี 1950 กับ UN World Population Prospects 2024 ตั้งแต่ปี 1950 เป็นค่าประมาณจากแหล่งข้อมูลและวิธีต่างกัน จึงอาจมีรอยต่อของอนุกรม ไม่ใช่สถิติทะเบียนครบทุกปี ข้อมูลไทยก่อนปี 1950 มีเฉพาะ 1937, 1941, 1947, 1948; PMfolio ไม่แทรกปีที่หาย แยกชุดนี้จาก World Bank WDI และใช้เป็นชุดสำรองในกลุ่มอายุคาดเฉลี่ย ไม่ให้น้ำหนักซ้ำเมื่อ WDI มีข้อมูลเพียงพอ แหล่งต้นฉบับ: https://clio-infra.eu/Indicators/LifeExpectancyatBirthTotal.html และ https://population.un.org/wpp/downloads/ . ไม่รวมค่าคาดการณ์หลังช่วงประมาณการย้อนหลังที่ OWID เผยแพร่."
+    },
+    {
+      "id": "schooling-years-longrun",
+      "category": "education",
+      "categoryLabel": "การศึกษา",
+      "name": "ปีการศึกษาเฉลี่ย อายุ 15–64 (ประวัติศาสตร์)",
+      "description": "ค่าประมาณจำนวนปีการศึกษาในระบบที่ประชากรอายุ 15–64 ปีสะสมมา ตามชุดประวัติศาสตร์ Lee และ Lee",
+      "unit": "years",
+      "unitLabel": "ปีการศึกษา",
+      "direction": "higher",
+      "scorable": true,
+      "scoreFamily": "education-attainment",
+      "scorePriority": 10,
+      "source": {
+        "title": "Lee and Lee (2016) · Our World in Data",
+        "url": "https://ourworldindata.org/grapher/mean-years-of-schooling-long-run",
+        "code": "Lee-Lee · mean schooling ages 15–64 · historical to 2010",
+        "apiUrl": "https://ourworldindata.org/grapher/mean-years-of-schooling-long-run.csv",
+        "lastUpdated": "2023-07-17"
+      },
+      "values": [
+        {
+          "year": 1935,
+          "value": 0.99
+        },
+        {
+          "year": 1940,
+          "value": 1.25
+        },
+        {
+          "year": 1945,
+          "value": 1.67
+        },
+        {
+          "year": 1950,
+          "value": 2.16
+        },
+        {
+          "year": 1955,
+          "value": 2.44
+        },
+        {
+          "year": 1960,
+          "value": 2.68
+        },
+        {
+          "year": 1965,
+          "value": 2.39
+        },
+        {
+          "year": 1970,
+          "value": 2.74
+        },
+        {
+          "year": 1975,
+          "value": 3.24
+        },
+        {
+          "year": 1980,
+          "value": 3.9
+        },
+        {
+          "year": 1985,
+          "value": 4.45
+        },
+        {
+          "year": 1990,
+          "value": 5.21
+        },
+        {
+          "year": 1995,
+          "value": 5.79
+        },
+        {
+          "year": 2000,
+          "value": 6.09
+        },
+        {
+          "year": 2005,
+          "value": 7.46
+        },
+        {
+          "year": 2010,
+          "value": 8.47
+        }
+      ],
+      "notes": "ข้อมูลไทย 16 ปีที่มีค่า ระหว่าง 1935–2010; เก็บเฉพาะปีตั้งแต่ 1932 ที่ต้นทางเผยแพร่จริง ไม่เติมช่องว่าง. แหล่งข้อมูลประมาณย้อนหลังเป็นช่วง 5 ปี ไม่ใช่การสำรวจใหม่ทุกปี PMfolio เก็บเฉพาะปีที่ต้นทางมีค่า และตัดค่าคาดการณ์ Barro-Lee ตั้งแต่ 2015 ออกทั้งหมด ไม่ทำ interpolation หรือเอาค่าปีใกล้เคียงไปใส่ให้วาระที่ขาด วัดจำนวนปีเรียนสะสม ไม่ใช่คุณภาพการเรียนหรือผลของรัฐบาลเดียว กลุ่มอายุต่างจาก UNDP อายุ 25 ปีขึ้นไป จึงแยกชื่อและอนุกรม ไม่ต่อค่าเข้าด้วยกัน ต้นฉบับ Lee, Jong-Wha and Hanol Lee (2016), Human Capital in the Long Run, Journal of Development Economics 122, 147–169; https://barrolee.github.io/BarroLeeDataSet/DataLeeLee.html ."
+    },
+    {
+      "id": "schooling-years-undp",
+      "category": "education",
+      "categoryLabel": "การศึกษา",
+      "name": "ปีการศึกษาเฉลี่ย อายุ 25 ปีขึ้นไป (UNDP)",
+      "description": "จำนวนปีเรียนในระบบเฉลี่ยที่ผู้ใหญ่อายุ 25 ปีขึ้นไปสะสม ไม่รวมปีซ้ำชั้น ใช้อ่านการศึกษาที่ได้รับในอดีต",
+      "unit": "years",
+      "unitLabel": "ปีการศึกษา",
+      "direction": "higher",
+      "scorable": true,
+      "scoreFamily": "education-attainment",
+      "scorePriority": 20,
+      "source": {
+        "title": "UNDP Human Development Report 2025 · Our World in Data",
+        "url": "https://ourworldindata.org/grapher/average-schooling-vs-expected-schooling",
+        "code": "UNDP HDR 2025 · mys__sex_total",
+        "apiUrl": "https://ourworldindata.org/grapher/average-schooling-vs-expected-schooling.csv",
+        "lastUpdated": "2025-05-07"
+      },
+      "values": [
+        {
+          "year": 1990,
+          "value": 4.510304
+        },
+        {
+          "year": 1991,
+          "value": 4.6280665
+        },
+        {
+          "year": 1992,
+          "value": 4.745829
+        },
+        {
+          "year": 1993,
+          "value": 4.8635917
+        },
+        {
+          "year": 1994,
+          "value": 4.981354
+        },
+        {
+          "year": 1995,
+          "value": 5.099117
+        },
+        {
+          "year": 1996,
+          "value": 5.2121687
+        },
+        {
+          "year": 1997,
+          "value": 5.3252206
+        },
+        {
+          "year": 1998,
+          "value": 5.4382725
+        },
+        {
+          "year": 1999,
+          "value": 5.551325
+        },
+        {
+          "year": 2000,
+          "value": 5.6643767
+        },
+        {
+          "year": 2001,
+          "value": 6.0482826
+        },
+        {
+          "year": 2002,
+          "value": 6.432188
+        },
+        {
+          "year": 2003,
+          "value": 6.816094
+        },
+        {
+          "year": 2004,
+          "value": 7.2
+        },
+        {
+          "year": 2005,
+          "value": 7.085
+        },
+        {
+          "year": 2006,
+          "value": 6.97
+        },
+        {
+          "year": 2007,
+          "value": 7.1299996
+        },
+        {
+          "year": 2008,
+          "value": 7.29
+        },
+        {
+          "year": 2009,
+          "value": 7.4500003
+        },
+        {
+          "year": 2010,
+          "value": 7.61
+        },
+        {
+          "year": 2011,
+          "value": 7.71
+        },
+        {
+          "year": 2012,
+          "value": 7.81
+        },
+        {
+          "year": 2013,
+          "value": 7.91
+        },
+        {
+          "year": 2014,
+          "value": 8.046666
+        },
+        {
+          "year": 2015,
+          "value": 8.183333
+        },
+        {
+          "year": 2016,
+          "value": 8.32
+        },
+        {
+          "year": 2017,
+          "value": 8.344999
+        },
+        {
+          "year": 2018,
+          "value": 8.37
+        },
+        {
+          "year": 2019,
+          "value": 8.7
+        },
+        {
+          "year": 2020,
+          "value": 8.8133335
+        },
+        {
+          "year": 2021,
+          "value": 8.926666
+        },
+        {
+          "year": 2022,
+          "value": 9.04
+        },
+        {
+          "year": 2023,
+          "value": 9.04
+        }
+      ],
+      "notes": "ข้อมูลไทย 34 ปีที่มีค่า ระหว่าง 1990–2023; เก็บเฉพาะปีตั้งแต่ 1932 ที่ต้นทางเผยแพร่จริง ไม่เติมช่องว่าง. UNDP คำนวณจากสำมะโน/แบบสำรวจและชุดการศึกษาหลายแหล่ง ค่ารายปีอาจผ่านการประมาณหรือ interpolation โดยต้นทาง ไม่ใช่การสำรวจอิสระใหม่ทุกปี PMfolio ไม่เติมค่าเอง ค่าสูงขึ้นหมายถึงจำนวนปีการศึกษาสะสมสูงขึ้น ไม่ได้ยืนยันคุณภาพหรือผลนโยบายในวาระเดียว จะแยกจากชุด Lee-Lee ซึ่งใช้ประชากรอายุ 15–64 ปี และใช้เพียงหนึ่งชุดในกลุ่มการศึกษาสะสมเมื่อสรุปดัชนี ต้นฉบับ UNDP (2025), Human Development Report 2025; https://hdr.undp.org/data-center/documentation-and-downloads ."
+    },
+    {
+      "id": "expected-schooling-years-undp",
+      "category": "education",
+      "categoryLabel": "การศึกษา",
+      "name": "ปีการศึกษาที่คาดหมาย (UNDP)",
+      "description": "จำนวนปีที่เด็กเริ่มเรียนคาดว่าจะอยู่ในระบบ หากอัตราเข้าเรียนแต่ละวัยของปีอ้างอิงคงเดิม รวมปีซ้ำชั้น",
+      "unit": "years",
+      "unitLabel": "ปีการศึกษา",
+      "direction": "context",
+      "scorable": false,
+      "source": {
+        "title": "UNDP Human Development Report 2025 · Our World in Data",
+        "url": "https://ourworldindata.org/grapher/average-schooling-vs-expected-schooling",
+        "code": "UNDP HDR 2025 · eys__sex_total",
+        "apiUrl": "https://ourworldindata.org/grapher/average-schooling-vs-expected-schooling.csv",
+        "lastUpdated": "2025-05-07"
+      },
+      "values": [
+        {
+          "year": 1990,
+          "value": 8.76085
+        },
+        {
+          "year": 1991,
+          "value": 9.050734
+        },
+        {
+          "year": 1992,
+          "value": 9.340616
+        },
+        {
+          "year": 1993,
+          "value": 9.6305
+        },
+        {
+          "year": 1994,
+          "value": 9.84863
+        },
+        {
+          "year": 1995,
+          "value": 10.06676
+        },
+        {
+          "year": 1996,
+          "value": 10.24218
+        },
+        {
+          "year": 1997,
+          "value": 10.46321
+        },
+        {
+          "year": 1998,
+          "value": 10.87126
+        },
+        {
+          "year": 1999,
+          "value": 11.097877
+        },
+        {
+          "year": 2000,
+          "value": 11.324493
+        },
+        {
+          "year": 2001,
+          "value": 11.55111
+        },
+        {
+          "year": 2002,
+          "value": 11.75627
+        },
+        {
+          "year": 2003,
+          "value": 11.940325
+        },
+        {
+          "year": 2004,
+          "value": 12.12438
+        },
+        {
+          "year": 2005,
+          "value": 12.51091
+        },
+        {
+          "year": 2006,
+          "value": 12.52921
+        },
+        {
+          "year": 2007,
+          "value": 12.90353
+        },
+        {
+          "year": 2008,
+          "value": 12.72402
+        },
+        {
+          "year": 2009,
+          "value": 12.61021
+        },
+        {
+          "year": 2010,
+          "value": 13.53878
+        },
+        {
+          "year": 2011,
+          "value": 13.67678
+        },
+        {
+          "year": 2012,
+          "value": 13.49242
+        },
+        {
+          "year": 2013,
+          "value": 13.4146
+        },
+        {
+          "year": 2014,
+          "value": 16.06523
+        },
+        {
+          "year": 2015,
+          "value": 16.041204
+        },
+        {
+          "year": 2016,
+          "value": 16.01718
+        },
+        {
+          "year": 2017,
+          "value": 15.8805
+        },
+        {
+          "year": 2018,
+          "value": 15.743819
+        },
+        {
+          "year": 2019,
+          "value": 15.60714
+        },
+        {
+          "year": 2020,
+          "value": 15.47046
+        },
+        {
+          "year": 2021,
+          "value": 15.358835
+        },
+        {
+          "year": 2022,
+          "value": 15.358835
+        },
+        {
+          "year": 2023,
+          "value": 15.358835
+        }
+      ],
+      "notes": "ข้อมูลไทย 34 ปีที่มีค่า ระหว่าง 1990–2023; เก็บเฉพาะปีตั้งแต่ 1932 ที่ต้นทางเผยแพร่จริง ไม่เติมช่องว่าง. เป็นค่าคาดหมายตามรูปแบบการเข้าเรียนในปีอ้างอิง ไม่ใช่จำนวนปีที่เด็กรุ่นนั้นเรียนจบจริง และไม่ใช่การพยากรณ์ปีอนาคตที่นำมาเติมช่องว่าง ค่าสูงอาจมาจากโครงสร้างหลักสูตรหรือการซ้ำชั้น จึงใช้เป็นบริบทโดยไม่แปลงเป็นคะแนน ข้อมูลรายปีอาจมีค่าประมาณจากต้นทาง PMfolio ไม่เติมข้อมูลเอง ต้นฉบับ UNDP (2025), Human Development Report 2025; https://hdr.undp.org/data-center/documentation-and-downloads ."
+    },
+    {
+      "id": "upper-secondary-attainment",
+      "category": "education",
+      "categoryLabel": "การศึกษา",
+      "name": "จบอย่างน้อยมัธยมปลาย อายุ 25 ปีขึ้นไป",
+      "description": "สัดส่วนผู้ใหญ่อายุ 25 ปีขึ้นไปที่จบอย่างน้อยมัธยมศึกษาตอนปลาย รวมผู้ที่จบสูงกว่าระดับนี้",
+      "unit": "%",
+      "unitLabel": "% ของประชากรอายุ 25 ปีขึ้นไป",
+      "direction": "higher",
+      "scorable": true,
+      "scoreFamily": "education-completion",
+      "scorePriority": 20,
+      "source": {
+        "title": "UNESCO UIS · World Bank World Development Indicators",
+        "url": "https://data.worldbank.org/indicator/SE.SEC.CUAT.UP.ZS?locations=TH",
+        "code": "SE.SEC.CUAT.UP.ZS",
+        "apiUrl": "https://api.worldbank.org/v2/country/THA/indicator/SE.SEC.CUAT.UP.ZS?format=json&per_page=20000&source=2",
+        "lastUpdated": "2026-07-13"
+      },
+      "values": [
+        {
+          "year": 1970,
+          "value": 1.10000002384186
+        },
+        {
+          "year": 1980,
+          "value": 5.31411981582642
+        },
+        {
+          "year": 2000,
+          "value": 10.9080495390968
+        },
+        {
+          "year": 2004,
+          "value": 22.6436290740967
+        },
+        {
+          "year": 2006,
+          "value": 22.5699596405029
+        },
+        {
+          "year": 2007,
+          "value": 21.9606498681637
+        },
+        {
+          "year": 2010,
+          "value": 27.3381099700928
+        },
+        {
+          "year": 2013,
+          "value": 29.2922706604004
+        },
+        {
+          "year": 2014,
+          "value": 31.1241301304379
+        },
+        {
+          "year": 2015,
+          "value": 32.2173025321347
+        },
+        {
+          "year": 2016,
+          "value": 32.6746711730957
+        },
+        {
+          "year": 2017,
+          "value": 33.2606201829033
+        },
+        {
+          "year": 2018,
+          "value": 33.3059310913086
+        },
+        {
+          "year": 2019,
+          "value": 35.2588500976562
+        },
+        {
+          "year": 2020,
+          "value": 35.5546011622631
+        },
+        {
+          "year": 2021,
+          "value": 36.1886879229945
+        },
+        {
+          "year": 2022,
+          "value": 39.3285713195801
+        },
+        {
+          "year": 2023,
+          "value": 39.4400587660553
+        },
+        {
+          "year": 2024,
+          "value": 39.1148991116155
+        }
+      ],
+      "notes": "ข้อมูลไทย 19 ปีที่มีค่า ระหว่าง 1970–2024; ใช้เฉพาะปีที่ต้นทางมีค่า ไม่เติมช่องว่าง. วัดการศึกษาที่ผู้ใหญ่สะสมมาแล้วจากสำมะโนและแบบสำรวจที่ UNESCO UIS รวบรวม ไม่ใช่อัตราจบของนักเรียนในปีนั้น ไม่ใช่ enrollment แบบ gross และไม่ใช่หลักฐานว่านโยบายรัฐบาลเดียวทำให้จบมากขึ้น ค่าสูงหมายถึงสัดส่วนผู้ใหญ่ที่จบถึงระดับดังกล่าวสูงขึ้น ไม่ยืนยันคุณภาพการเรียนรู้ การจัดระดับวุฒิและระบบสำรวจอาจเปลี่ยนตามเวลา นิยามและที่มา: https://databank.worldbank.org/metadataglossary/world-development-indicators/series/SE.SEC.CUAT.UP.ZS ."
+    }
+  ]
+}
